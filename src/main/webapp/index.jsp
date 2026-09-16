@@ -5,7 +5,7 @@
 </head>
 <body>
 
-    <h2>Registration Form</h2>
+    <h2>Welcome to Indian Railways!! Book your train ticket here!!!</h2>
 
     <form>
 
