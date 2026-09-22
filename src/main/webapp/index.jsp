@@ -9,28 +9,28 @@
 
     <form>
 
-        <label>Name:</label>
-        <input type="text" name="name">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name">
         <br><br>
 
-        <label>Email:</label>
-        <input type="email" name="email">
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email">
         <br><br>
 
-        <label>Password:</label>
-        <input type="password" name="password">
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password">
         <br><br>
 
-        <label>Repeat Password:</label>
-        <input type="password" name="repeatPassword">
+        <label for="repeatPassword">Repeat Password:</label>
+        <input type="password" id="repeatPassword" name="repeatPassword">
         <br><br>
 
-        <label>Place of Login:</label>
-        <input type="text" name="placeOfLogin">
+        <label for="placeOfLogin">Place of Login:</label>
+        <input type="text" id="placeOfLogin" name="placeOfLogin">
         <br><br>
 
-        <label>Phone Number:</label>
-        <input type="tel" name="phoneNumber">
+        <label for="phoneNumber">Phone Number:</label>
+        <input type="tel" id="phoneNumber" name="phoneNumber">
         <br><br>
 
         <input type="submit" value="Register">
