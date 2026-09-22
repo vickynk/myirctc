@@ -25,6 +25,14 @@
         <input type="password" name="repeatPassword">
         <br><br>
 
+        <label>Place of Login:</label>
+        <input type="text" name="placeOfLogin">
+        <br><br>
+
+        <label>Phone Number:</label>
+        <input type="tel" name="phoneNumber">
+        <br><br>
+
         <input type="submit" value="Register">
 
     </form>
